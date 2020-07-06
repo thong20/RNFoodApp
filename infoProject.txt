@@ -1,0 +1,3 @@
+
+sử dụng thư viện tại:
+github.com/ptomasroos/react-native-scrollable-tab-view/tree/master/Example
