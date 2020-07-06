@@ -1,3 +1,12 @@
 
 sử dụng thư viện tại:
 github.com/ptomasroos/react-native-scrollable-tab-view/tree/master/Example
+
+github:
+
+echo "# RNFoodApp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/thong20/RNFoodApp.git
+git push -u origin master
